@@ -1,0 +1,20 @@
+{
+    "article":[
+        {"id": "1",
+        "title": "welcome to the site",
+        "author": "mahdi",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. In, reiciendis voluptate itaque facere quaerat dolorem debitis nesciunt corporis libero culpa quasi nisi iste porro nam suscipit deserunt qui sunt cupiditate?"
+        },
+        {"id": "2",
+        "title": "login page",
+        "author": "mahdi",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. In, reiciendis voluptate itaque facere quaerat dolorem debitis nesciunt corporis libero culpa quasi nisi iste porro nam suscipit deserunt qui sunt cupiditate?"
+        
+        },
+        {"id": "3",
+        "title": "contact with us",
+        "author": "mahdi",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. In, reiciendis voluptate itaque facere quaerat dolorem debitis nesciunt corporis libero culpa quasi nisi iste porro nam suscipit deserunt qui sunt cupiditate?"
+        }
+    ]
+}
